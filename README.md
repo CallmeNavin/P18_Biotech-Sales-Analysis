@@ -4,17 +4,23 @@
 
 **A. Project Overview**
 
-- 
+- This project analyzes the performance of a biotech company specializing in Black Soldier Fly (BSF) farming, producing Protein Meal, Insect Oil, and Organic Fertilizer.
+- The objective is to identify operational gaps and provide actionable recommendations to improve production efficiency, biological performance, and product quality.
+
+![Dashboard Visualization](https://github.com/CallmeNavin/P18_Biotech-Sales-Analysis/blob/main/Version%201/Visualization/Overview.png)
+_Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
 
 _**Source**_
 
-- Simulate dataset
+- A simulated dataset was created, since real-world datasets in this niche industry are rarely public.
+- The dataset was designed to reflect realistic operations of BSF production, aligned with key KPIs (egg hatch, larvae survival, bioconversion, yield, protein %, lauric acid %).
+- This also serves as a domain-focused case study, relevant to my application for a data role in the biotech/insect protein sector.
 
 **_Period_**
 
-- Jan 2024 - Feb 2025
+- Data covers the period January 2024 – February 2025.
 
 **C. Methodology**
 
@@ -46,6 +52,7 @@ _**Actionable Plans**_
     - Root cause: High density of adult flies in breeding cages, Suboptimal temperature/humidity control
     - Method: Reduce rearing density, Standardize rearing conditions
     - Target: Increase hatch rate from 82% to ≥90% within 6 months.
+→ Output gap is a symptom caused by low hatch/survival rates. It will automatically improve once short-term priorities are addressed.
 - Long-term goal:
   + Priority 1: Enhance lauric acid content in insect oil via substrate optimization, harvest timing, and improved processing methods.
     - Root cause: Suboptimal oil extraction method
