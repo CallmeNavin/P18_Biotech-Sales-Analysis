@@ -1,6 +1,6 @@
-<img width="877" height="477" alt="image" src="https://github.com/user-attachments/assets/6ddf92fa-4f84-4ff6-b213-cf360b4a3048" /># P18_Biotech Sales Analysis
+# P18_Biotech Sales Analysis
 
-**VERSION 1 - Predictive Analysis**
+**VERSION 1**
 
 **A. Project Overview**
 
