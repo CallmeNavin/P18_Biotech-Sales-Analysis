@@ -7,7 +7,7 @@
 - This project analyzes the performance of a biotech company specializing in Black Soldier Fly (BSF) farming, producing Protein Meal, Insect Oil, and Organic Fertilizer.
 - The objective is to identify operational gaps and provide actionable recommendations to improve production efficiency, biological performance, and product quality.
 
-![Dashboard Visualization](https://github.com/CallmeNavin/P18_Biotech-Sales-Analysis/blob/main/Version%201/Visualization/Overview.png)
+![Dashboard Visualization](https://github.com/CallmeNavin/P18_Biotech-Sales-Analysis/blob/main/Version%201/Visualization/Dashboard.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
